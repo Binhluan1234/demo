@@ -11,8 +11,6 @@ import {
 import { connect } from 'react-redux'
 
 import * as Action from '../actions/action'
-import BikeSlider from './BikeSlider'
-import HtmlPaser from './htmlPaser'
 
 const styles = StyleSheet.create({
   Button: {
